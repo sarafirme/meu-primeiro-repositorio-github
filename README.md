@@ -1,6 +1,6 @@
 # meu-primeiro-repositorio-github
 
-[**Linkedin**]([https://](https://www.linkedin.com/in/sara-vanessa-673850285/])
+[**Linkedin**]([https://](https://www.linkedin.com/in/sara-vanessa-673850285/)])
 
 **Linguagens FrontEnd**
 
